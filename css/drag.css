@@ -1,0 +1,27 @@
+#map{
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+#clear{
+    float: right;
+    margin: 7px 7px 7px 7px;
+}
+#undo{
+    float: right;
+    margin: 7px 7px 7px 7px;
+}
+
+.button{
+    padding: 8px;
+    border: none;
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+}
+
+.button:active{
+    outline:none;
+    border: none;
+    background-color: #ffae19;
+}
