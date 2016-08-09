@@ -409,7 +409,6 @@ $(document).ready(function() {
         while(storeLines.length!=0){
             storeLines.pop();
         }
-        console.log($("#clear").outerWidth()+" "+$("#undo").outerWidth());
         clearCanvas();
     });
 
